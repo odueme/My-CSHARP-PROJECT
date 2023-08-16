@@ -1,0 +1,14 @@
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\bin\Debug\net7.0\My-CSHARP-PROJECT.exe
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\bin\Debug\net7.0\My-CSHARP-PROJECT.deps.json
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\bin\Debug\net7.0\My-CSHARP-PROJECT.runtimeconfig.json
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\bin\Debug\net7.0\My-CSHARP-PROJECT.dll
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\bin\Debug\net7.0\My-CSHARP-PROJECT.pdb
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.AssemblyInfoInputs.cache
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.AssemblyInfo.cs
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.dll
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\refint\My-CSHARP-PROJECT.dll
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.pdb
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\My-CSHARP-PROJECT.genruntimeconfig.cache
+C:\Users\Uzoezi\Desktop\My-CSHARP-PROJECT\obj\Debug\net7.0\ref\My-CSHARP-PROJECT.dll
